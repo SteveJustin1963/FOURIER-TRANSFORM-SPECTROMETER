@@ -1,4 +1,4 @@
-# FOURIER-TRANSFORM-SPECTROMETER
+ # Fourier-transform spectroscopy
 
 
 
